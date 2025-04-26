@@ -59,7 +59,6 @@ const HeroSection = () => {
           </div>
         </div>
         
-        {/* Trusted by section */}
         <div className="mt-20 mb-10 text-center animate-fade-in">
           <p className="text-gray-500 mb-8">Ils nous font confiance</p>
           <div className="flex flex-wrap justify-center items-center gap-8 md:gap-16">
