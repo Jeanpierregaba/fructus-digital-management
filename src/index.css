@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@300;400;500;600;700;800&display=swap');
 
 @tailwind base;
@@ -111,11 +110,11 @@
   }
   
   .btn-secondary {
-    @apply bg-fructus-green hover:bg-teal-600 text-white transition-colors;
+    @apply bg-fructus-green hover:bg-green-600 text-white transition-colors;
   }
   
   .btn-accent {
-    @apply bg-fructus-orange hover:bg-orange-600 text-white transition-colors;
+    @apply bg-fructus-orange hover:bg-yellow-600 text-white transition-colors;
   }
 
   .section-title {
