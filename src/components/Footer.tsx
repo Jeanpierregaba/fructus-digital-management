@@ -107,19 +107,19 @@ const Footer = () => {
                 <MapPin className="mr-2 mt-1 flex-shrink-0" size={18} />
                 <span className="text-gray-300">
                   123 Rue de la Technologie<br />
-                  75000 Paris, France
+                  Lomé, TOGO
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone className="mr-2 flex-shrink-0" size={18} />
                 <a href="tel:+33123456789" className="text-gray-300 hover:text-white transition-colors">
-                  +33 1 23 45 67 89
+                  +228 99 45 87 46
                 </a>
               </li>
               <li className="flex items-center">
                 <Mail className="mr-2 flex-shrink-0" size={18} />
                 <a href="mailto:contact@fructus-digital.com" className="text-gray-300 hover:text-white transition-colors">
-                  contact@fructus-digital.com
+                  support@fructusdm.com
                 </a>
               </li>
             </ul>
