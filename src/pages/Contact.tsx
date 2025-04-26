@@ -39,7 +39,7 @@ const Contact = () => {
                     <h3 className="text-lg font-medium mb-1">Adresse</h3>
                     <p className="text-gray-600">
                       123 Rue de la Technologie<br />
-                      75000 Paris, France
+                      Lomé, TOGO
                     </p>
                   </div>
                 </div>
@@ -54,7 +54,7 @@ const Contact = () => {
                     <h3 className="text-lg font-medium mb-1">Téléphone</h3>
                     <p className="text-gray-600">
                       <a href="tel:+33123456789" className="hover:text-fructus-blue transition-colors">
-                        +33 1 23 45 67 89
+                        +228 99 45 87 46
                       </a>
                     </p>
                   </div>
@@ -70,7 +70,7 @@ const Contact = () => {
                     <h3 className="text-lg font-medium mb-1">Email</h3>
                     <p className="text-gray-600">
                       <a href="mailto:contact@fructus-digital.com" className="hover:text-fructus-blue transition-colors">
-                        contact@fructus-digital.com
+                        support@fructusdm.com
                       </a>
                     </p>
                   </div>
@@ -85,7 +85,7 @@ const Contact = () => {
                   <div className="ml-4">
                     <h3 className="text-lg font-medium mb-1">Heures d'ouverture</h3>
                     <p className="text-gray-600">
-                      Lundi - Vendredi: 9h00 - 18h00<br />
+                      Lundi - Vendredi: 8h00 - 17h00<br />
                       Samedi - Dimanche: Fermé
                     </p>
                   </div>
