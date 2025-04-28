@@ -105,7 +105,7 @@ const About = () => {
             <div className="order-2 lg:order-1 relative">
               <div className="relative z-10">
                 <img 
-                  src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                  src="https://img.freepik.com/free-photo/african-american-research-agency-coworkers-meeting-about-startup-project-financial-status-business-people-desk-company-office-finance-department-talking-about-marketing-expenses_482257-40197.jpg?t=st=1745655082~exp=1745658682~hmac=f007e749389b6cf7cef8fe637782f3eeabb9c56b9ba16435703ddc6666364bd2&w=1380" 
                   alt="Notre histoire" 
                   className="rounded-lg shadow-xl"
                 />
@@ -116,7 +116,7 @@ const About = () => {
             <div className="order-1 lg:order-2">
               <h2 className="text-3xl font-bold text-fructus-blue mb-6">Notre Histoire</h2>
               <p className="text-gray-600 mb-6">
-                Fondée en 2018, FRUCTUS DIGITAL & MANAGEMENT est née de la vision d'Alexandre Dubois, qui souhaitait créer une entreprise combinant expertise technologique et engagement environnemental.
+                Fondée en 2023, FRUCTUS DIGITAL & MANAGEMENT est née de la vision d'Alexandre Dubois, qui souhaitait créer une entreprise combinant expertise technologique et engagement environnemental.
               </p>
               <p className="text-gray-600 mb-6">
                 Au fil des années, nous avons évolué d'une petite équipe de consultants à une entreprise complète offrant un large éventail de services technologiques innovants. Nous avons toujours gardé à l'esprit notre mission initiale : aider les entreprises à prospérer grâce à des solutions numériques durables.
